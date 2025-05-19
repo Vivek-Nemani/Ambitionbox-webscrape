@@ -1,0 +1,521 @@
+Company,Industry,Headquarters,Reviews,Jobs,Salaries,Benefits,Interviews
+TCS,IT Services & Consulting, Bangalore / Bengaluru,(95.7k),247,9L,11.9k,10.9k
+Accenture,IT Services & Consulting, Bangalore / Bengaluru,(61.4k),10.1k,6L,7.4k,8.5k
+Wipro,IT Services & Consulting, Bangalore / Bengaluru,(56.1k),4k,4.5L,5.3k,5.9k
+Cognizant,IT Services & Consulting, Hyderabad / Secunderabad,(53.3k),273,5.8L,6.1k,5.8k
+Capgemini,IT Services & Consulting, Bangalore / Bengaluru,(44.9k),1.4k,4.4L,4.2k,5k
+HDFC Bank,Banking, Mumbai,(42.3k),181,1.4L,3.3k,2.3k
+Infosys,IT Services & Consulting, Bangalore / Bengaluru,(41.9k),1k,4.8L,5.4k,7.8k
+ICICI Bank,Banking, Mumbai,(41k),7,1.5L,3.8k,2.5k
+HCLTech,IT Services & Consulting, Chennai,(38.6k),298,3.4L,4.3k,4k
+Tech Mahindra,IT Services & Consulting, Hyderabad / Secunderabad,(37.3k),483,2.7L,3.8k,4k
+Genpact,IT Services & Consulting, Hyderabad / Secunderabad,(34.7k),662,2.1L,3.9k,3.3k
+Teleperformance,BPO, Mumbai,(31.6k),376,90.9k,2.3k,1.9k
+Axis Bank,Banking, Mumbai,(27.3k),228,100k,2.2k,1.6k
+Concentrix Corporation,BPO, Bangalore / Bengaluru,(27.9k),140,1.2L,3.4k,1.7k
+Amazon,Internet, Bangalore / Bengaluru,(26.6k),2.7k,1.3L,4.4k,5.2k
+Jio,Telecom, Mumbai,(24.9k),53,60.5k,2.7k,2.1k
+Reliance Retail,Retail, Mumbai,(23.6k),123,66.3k,2k,1.6k
+iEnergizer,BPO, Noida,(24.1k),323,22.7k,568,707
+IBM,IT Services & Consulting, Bangalore / Bengaluru,(23.5k),1.1k,2L,2.8k,2.4k
+LTIMindtree,IT Services & Consulting, Bangalore / Bengaluru,(22.2k),541,1.8L,1.3k,3k
+HDB Financial Services,NBFC, Mumbai,(21.8k),258,48.9k,1.6k,869
+Larsen & Toubro Limited,Engineering & Construction, Chennai,(19.8k),231,68.9k,2.9k,1.5k
+Deloitte,Management Consulting, Hyderabad / Secunderabad,(18.9k),92,2L,2.6k,3k
+Kotak Mahindra Bank,Banking, Mumbai,(18.5k),45,82k,1.3k,1.1k
+Reliance Industries,Oil & Gas, Jamnagar,(17.1k),49,67.2k,2k,1.4k
+BYJU'S,EdTech, Bangalore / Bengaluru,(16.3k),--,57.8k,1.9k,2.1k
+Vodafone Idea,Telecom, Pune,(15.9k),9,51.5k,2.1k,576
+Bharti Airtel,Telecom, Gurgaon / Gurugram,(14.7k),227,46k,1.7k,913
+WNS,BPO, Pune,(12.8k),181,63.6k,1.4k,1.1k
+Tata Motors,Automobile, Pune,(12.7k),14,39.4k,1.8k,1k
+AU Small Finance Bank,Banking, Jaipur,(12.1k),57,26k,647,555
+IndusInd Bank,Banking, Mumbai,(11.7k),344,48.6k,829,654
+Flipkart,Internet, Bangalore / Bengaluru,(11.2k),135,48.8k,1.4k,1.4k
+IDFC FIRST Bank,Banking, Mumbai,(11.2k),44,44.7k,749,707
+Ernst & Young,Management Consulting, Bangalore / Bengaluru,(11.6k),3.7k,1.2L,1.3k,1.2k
+DXC Technology,IT Services & Consulting, Bangalore / Bengaluru,(10.6k),175,72.8k,1.2k,820
+Mahindra & Mahindra,Automobile, Pune,(10.3k),56,36.2k,1.3k,709
+Bajaj Finserv,Financial Services, Pune,(10.1k),28,27.4k,769,560
+PwC,Management Consulting, Bangalore / Bengaluru,(10.1k),1.9k,95.1k,900,1.4k
+Infosys BPM,BPO, Bangalore / Bengaluru,(10.4k),55,67.3k,1.2k,990
+HDFC Life,Insurance, Mumbai,(9.9k),42,29.9k,661,652
+Conneqt Business Solutions,BPO, Hyderabad / Secunderabad,(9.2k),443,26.5k,856,491
+Mphasis,IT Services & Consulting, Bangalore / Bengaluru,(8.9k),128,68.7k,913,829
+Yes Bank,Banking, Mumbai,(8.4k),153,40.8k,645,462
+Bandhan Bank,Banking, Kolkata,(8.4k),2,23k,545,588
+Tata Steel,Iron & Steel, Jamshedpur,(8.2k),--,30.1k,753,896
+Quess,BPO, Bangalore / Bengaluru,(7.9k),54,28.6k,471,444
+Asian Paints,Chemicals, Mumbai,(7.9k),32,22.4k,930,680
+Paytm,FinTech, Noida,(7.9k),502,31.7k,601,777
+Startek,n/a,Bangalore / Bengaluru,(8.1k),56,23.5k,733,508
+UltraTech Cement,Building Material, Mumbai,(7.7k),416,22.4k,673,624
+Maruti Suzuki,Automobile, Gurgaon / Gurugram,(7.6k),22,24.9k,1.1k,616
+Samsung,Consumer Electronics & Appliances, Noida,(7.6k),13,25.5k,591,565
+EXL Service,IT Services & Consulting, Noida,(7.5k),375,40k,878,779
+Ericsson,Telecom, Noida,(7.5k),175,41.4k,1.1k,426
+Sutherland Global Services,IT Services & Consulting, Chennai,(7.5k),217,30.7k,977,667
+Muthoot Fincorp,NBFC, Bangalore / Bengaluru,(7.4k),52,7.9k,330,579
+Shriram Finance,NBFC, Chennai,(7.5k),24,14k,63,360
+Dr. Reddy's,Pharma, Hyderabad / Secunderabad,(7.1k),41,24.1k,795,414
+HGS,BPO, Bangalore / Bengaluru,(7.1k),23,22.1k,1k,248
+Cipla,Pharma, Mumbai,(7.3k),120,24.1k,920,508
+Wells Fargo,Financial Services, Bangalore / Bengaluru,(6.9k),183,50.4k,927,600
+Bajaj Finance,NBFC, Pune,(7.4k),2.1k,20.6k,549,330
+ICICI Prudential Life Insurance,Insurance, Mumbai,(6.7k),352,21.7k,643,414
+JPMorgan Chase & Co.,Financial Services, Bangalore / Bengaluru,(6.6k),909,74.2k,926,776
+Jana Small Finance Bank,Banking, Bangalore / Bengaluru,(6.5k),29,13.8k,638,259
+Delhivery,Logistics, Gurgaon / Gurugram,(6.5k),99,19.5k,687,493
+L&T Construction,Engineering & Construction, Chennai,(6.4k),--,18.3k,852,789
+Lupin,Pharma, Pune,(6.4k),117,22.1k,841,364
+Amazon Development Centre India,Internet, Hyderabad / Secunderabad,(6.7k),13,33.6k,73,793
+Hexaware Technologies,IT Services & Consulting, Chennai,(6.4k),185,48.5k,605,739
+Hindustan Unilever,FMCG, Mumbai,(6.3k),41,19k,754,383
+JSW Steel,Iron & Steel, Ballari,(6.3k),90,26.8k,680,627
+Zydus Lifesciences,Pharma, Ahmedabad,(6.3k),32,18.7k,718,340
+Equitas Small Finance Bank,Banking, Chennai,(6.2k),1.3k,12.1k,420,452
+Optum Global Solutions,IT Services & Consulting, Hyderabad / Secunderabad,(6.5k),103,41.4k,772,652
+ITC,FMCG, Bangalore / Bengaluru,(6k),82,22.3k,704,585
+Sun Pharmaceutical Industries,Pharma, Vadodara,(6.1k),232,21.5k,658,427
+KPMG India,Management Consulting, Bangalore / Bengaluru,(6k),1.4k,54.8k,801,826
+Ekart Logistics,n/a,Bangalore / Bengaluru,(5.8k),--,13.8k,450,331
+Axis Max Life Insurance,Insurance, New Delhi,(5.8k),251,17.9k,527,331
+FIS,IT Services & Consulting, Pune,(5.8k),240,37.3k,780,495
+Megha Engineering & Infrastructures,Engineering & Construction, Hyderabad / Secunderabad,(5.6k),24,16.6k,581,473
+HCL Group,IT Services & Consulting, Chennai,(5.7k),3,45.3k,716,472
+Indian Army,Defence & Aerospace, New Delhi,(5.5k),--,9.3k,772,159
+Oracle,Software Product, Bangalore / Bengaluru,(5.5k),1.7k,56.6k,660,879
+IIFL Finance,NBFC, Mumbai,(5.5k),12,13.8k,444,266
+Ujjivan Small Finance Bank,Banking, Bangalore / Bengaluru,(5.8k),57,12.2k,604,246
+Tata Projects,Engineering & Construction, Mumbai,(5.6k),14,20.3k,591,475
+eClerx,IT Services & Consulting, Pune,(5.3k),289,29.3k,613,554
+Omega Healthcare,BPO, Chennai,(5.3k),273,23.3k,428,468
+HSBC Group,Financial Services, Bangalore / Bengaluru,(5.2k),221,37k,1.2k,499
+Udaan,Internet, Bangalore / Bengaluru,(5.2k),10,16.3k,793,341
+Muthoot Finance,NBFC, Bangalore / Bengaluru,(5.3k),148,11.8k,345,277
+Aurobindo Pharma,Pharma, Hyderabad / Secunderabad,(5.1k),18,20.9k,514,253
+Siemens,Industrial Automation, Bangalore / Bengaluru,(5k),1.2k,30.1k,698,444
+Shapoorji Pallonji Group,Engineering & Construction, Mumbai,(5k),36,14.6k,665,352
+Bajaj Allianz Life Insurance,Insurance, Pune,(5.3k),109,15.8k,510,353
+JLL,Real Estate, Gurgaon / Gurugram,(5.2k),768,21.4k,580,393
+L&T Technology Services,IT Services & Consulting, Bangalore / Bengaluru,(5.4k),611,38.7k,482,557
+Standard Chartered,Banking, Chennai,(4.9k),--,39.5k,353,278
+Virtusa Consulting Services,IT Services & Consulting, Hyderabad / Secunderabad,(5.3k),43,53.1k,358,605
+Indiamart Intermesh,Internet, Noida,(5.1k),636,19k,471,671
+Coforge,IT Services & Consulting, Noida,(5.3k),376,42.3k,364,568
+Firstsource Solutions,BPO, Bangalore / Bengaluru,(4.9k),94,22.2k,623,312
+GlobalLogic,IT Services & Consulting, Hyderabad / Secunderabad,(4.9k),62,36.5k,579,610
+ICICI Lombard General Insurance Company,Insurance, Mumbai,(4.8k),95,18.4k,388,295
+Cyient,IT Services & Consulting, Hyderabad / Secunderabad,(4.8k),29,26.2k,504,300
+Ashok Leyland,Automobile, Chennai,(4.8k),3,17.6k,685,261
+BigBasket,Internet, Bangalore / Bengaluru,(4.8k),59,17.3k,405,377
+Citicorp,Financial Services, Pune,(4.7k),--,45.3k,569,577
+UST,IT Services & Consulting, Bangalore / Bengaluru,(4.7k),292,36.8k,465,528
+DMart,Retail, Mumbai,(4.9k),92,15.9k,503,422
+CGI Group,IT Services & Consulting, Bangalore / Bengaluru,(4.9k),205,43.4k,447,513
+Cholamandalam Investment & Finance,Financial Services, Chennai,(5k),16,11.1k,319,210
+SMFG India Credit,NBFC, Mumbai,(4.6k),122,10.5k,363,169
+Hero MotoCorp,Automobile, Gurgaon / Gurugram,(4.6k),2,14.4k,628,354
+Apollo Hospitals,Healthcare, Chennai,(4.8k),51,15.4k,537,376
+Mahindra Finance,NBFC, Mumbai,(4.7k),66,11.3k,526,161
+JustDial,Internet, Noida,(4.6k),51,15.2k,395,347
+Manappuram Finance,NBFC, Bangalore / Bengaluru,(4.5k),12,8.2k,277,161
+Bosch Global Software Technologies,IT Services & Consulting, Bangalore / Bengaluru,(4.8k),15,36.4k,755,352
+Vivo,Consumer Electronics & Appliances, Noida,(4.5k),4,12.7k,687,201
+Swiggy,Internet, Bangalore / Bengaluru,(4.5k),200,20.7k,382,452
+BNY,Financial Services, Pune,(4.4k),49,28.7k,574,360
+Kalpataru Projects International,Engineering & Construction, Mumbai,(4.4k),2,12.4k,222,261
+SBI Cards & Payment Services,Financial Services, New Delhi,(4.4k),126,15.1k,361,247
+Eviden,IT Services & Consulting, Pune,(4.6k),46,30.3k,71,304
+TVS Motor,Automobile, Hosur,(4.4k),7,14.5k,565,331
+Home Credit Finance,NBFC, Gurgaon / Gurugram,(4.4k),97,9.8k,648,118
+CBRE,Real Estate, Hyderabad / Secunderabad,(4.3k),53,17.2k,499,288
+PolicyBazaar,Internet, Gurgaon / Gurugram,(4.3k),223,15.1k,267,443
+Persistent Systems,IT Services & Consulting, Pune,(4.2k),165,39.3k,438,631
+Nagarro,IT Services & Consulting, Gurgaon / Gurugram,(4.2k),277,27.2k,1.2k,777
+OPPO,Consumer Electronics & Appliances, Greater Noida,(4.2k),12,11.9k,636,222
+Atos,IT Services & Consulting, Pune,(4.4k),63,33k,495,385
+Amdocs,Software Product, Pune,(4.2k),20,35.1k,709,526
+IQVIA,Clinical Research, Bangalore / Bengaluru,(4.4k),31,27.9k,564,478
+State Bank of India,Banking, Mumbai,(4.2k),--,10.6k,427,254
+JBM Group,Auto Components, Gurgaon / Gurugram,(4.2k),35,13.3k,415,297
+Schneider Electric,Industrial Automation, Bangalore / Bengaluru,(4.1k),317,21.7k,499,378
+Nagarjuna Construction Company,Engineering & Construction, Hyderabad / Secunderabad,(4.1k),12,10.9k,434,339
+Bosch,Auto Components, Bangalore / Bengaluru,(4.1k),375,19.3k,659,340
+Hewlett Packard Enterprise,IT Services & Consulting, Bangalore / Bengaluru,(4.1k),4,25.8k,583,241
+Dell,Consumer Electronics & Appliances, Bangalore / Bengaluru,(4.1k),47,27.2k,584,397
+Ecom Express,Logistics, Gurgaon / Gurugram,(4k),13,9.2k,342,214
+NTT Data,IT Services & Consulting, Bangalore / Bengaluru,(4.2k),59,30k,200,641
+KEC International,Engineering & Construction, Mumbai,(3.9k),6,11.8k,460,335
+Mahindra Logistics,Logistics, Mumbai,(4k),7,13k,467,210
+SBI Life Insurance Company,Insurance, Mumbai,(4.2k),10,11k,351,252
+Randstad,Recruitment, Hyderabad / Secunderabad,(3.9k),78,14.9k,347,282
+Varun Beverages,Beverage, New Delhi,(3.8k),57,11.2k,344,254
+CARS24,Internet, Gurgaon / Gurugram,(3.8k),94,14.3k,437,350
+Hyundai Motor India Limited,Automobile, Chennai,(3.8k),--,12.6k,554,275
+Piramal Capital Housing Finance,NBFC, Mumbai,(4k),2,8.7k,274,193
+Deutsche Bank,Banking, Pune,(3.8k),975,32.3k,438,379
+Havells,Electrical Equipment, Noida,(3.7k),26,12.4k,345,223
+R1 RCM,BPO, New Delhi,(3.7k),399,19.3k,400,296
+Aditya Birla Fashion and Retail,Fashion & Textile, Bangalore / Bengaluru,(3.9k),26,12k,404,220
+Bajaj Auto,Automobile, Pune,(3.6k),91,13.2k,562,284
+Oyo Rooms,Hospitality, Gurgaon / Gurugram,(3.6k),66,18k,398,223
+Reliance Communications,Telecom, Mumbai,(3.6k),--,9.8k,383,95
+Access Healthcare,Analytics & KPO, Chennai,(3.6k),235,21.6k,297,223
+EY Global Delivery Services ( EY GDS),Accounting & Auditing, Bangalore / Bengaluru,(3.7k),9,35.3k,187,785
+John Deere,Industrial Machinery, Pune,(3.6k),14,14.5k,446,238
+Hetero,Pharma, Hyderabad / Secunderabad,(3.6k),42,14.3k,364,243
+Tata Communications,Telecom, Pune,(3.5k),24,22.7k,453,266
+Tata AIA Life Insurance,Insurance, Mumbai,(3.5k),319,12.6k,317,187
+LG Electronics,Consumer Electronics & Appliances, Pune,(3.5k),1,10.1k,434,213
+L&T Finance,NBFC, Mumbai,(3.7k),2,10.9k,279,165
+Royal Enfield,Automobile, Chennai,(3.5k),2,13.4k,417,166
+Intas Pharmaceuticals,Pharma, Ahmedabad,(3.7k),29,16k,435,227
+Thermax Limited,Industrial Machinery, Pune,(3.5k),53,11.9k,399,267
+ITC Infotech,IT Services & Consulting, Bangalore / Bengaluru,(3.7k),76,27.9k,338,358
+Team Lease,Recruitment, Bangalore / Bengaluru,(3.6k),--,14.8k,226,218
+VE Commercial Vehicles,Automobile, Indore,(3.4k),9,12.6k,383,229
+DCB Bank,Banking, Mumbai,(3.4k),244,9.2k,258,193
+Publicis Sapient,IT Services & Consulting, Bangalore / Bengaluru,(3.4k),240,27k,432,636
+Macleods Pharmaceuticals,n/a,Mumbai,(3.6k),7,14.8k,386,217
+Subros,Auto Components, Noida,(3.3k),1,11.9k,440,177
+Lenskart,Internet, New Delhi,(3.3k),191,11.1k,224,334
+American Express,Financial Services, Gurgaon / Gurugram,(3.3k),198,21.2k,470,373
+Berger Paints,Chemicals, Kolkata,(3.3k),172,9.1k,294,281
+Bank of America,Banking, Gurgaon / Gurugram,(3.3k),94,25.3k,452,249
+Aakash Educational Services,Education & Training, New Delhi,(3.4k),86,12.2k,229,323
+Jindal Steel and Power,Iron & Steel, Angul,(3.3k),32,14k,351,333
+HDFC Ergo General Insurance,Insurance, Mumbai,(3.4k),--,11.4k,291,160
+Alembic Pharmaceuticals,Pharma, Vadodara,(3.3k),82,13.9k,408,210
+Samvardhana Motherson Group,Auto Components, Noida,(3.3k),10,12.1k,427,227
+Godrej & Boyce Manufacturing,Consumer Electronics & Appliances, Mumbai,(3.3k),58,14.6k,434,187
+RBL Bank,Banking, Mumbai,(3.3k),98,16.9k,229,186
+Utkarsh Small Finance Bank,Banking, Varanasi,(3.4k),12,9.8k,279,234
+Sodexo,Facility Management Services, Mumbai,(3.2k),107,9.5k,391,170
+Cummins,Industrial Machinery, Pune,(3.4k),165,14.7k,494,245
+Abbott,Pharma, Mumbai,(3.2k),272,10.8k,395,155
+Bharat Electronics,Electronics Manufacturing, Bangalore / Bengaluru,(3.2k),--,11.8k,334,217
+PVR Inox,Media & Entertainment, New Delhi,(3.3k),18,9.3k,258,175
+Viatris,Pharma, Hyderabad / Secunderabad,(3.4k),6,13.5k,538,143
+Carelon Global Solutions,Software Product, Bangalore / Bengaluru,(3.4k),18,25.1k,66,375
+Synechron,IT Services & Consulting, Pune,(3.1k),19,27k,293,372
+Pidilite Industries,Chemicals, Mumbai,(3.3k),3,9.8k,378,216
+Reliance Digital,Retail, Mumbai,(3.1k),--,7.8k,287,138
+Escorts Kubota Limited,Automobile, Faridabad,(3.1k),9,12k,286,241
+Birlasoft,IT Services & Consulting, Pune,(3.1k),11,28.1k,249,295
+Automatic Data Processing (ADP),Software Product, Hyderabad / Secunderabad,(3.3k),30,20k,490,249
+Cogent E Services,n/a,Noida,(3.1k),2,9.4k,239,253
+Ipca Laboratories,Pharma, Mumbai,(3.1k),36,10.7k,276,168
+"NTT DATA, Inc.",IT Services & Consulting, Bangalore / Bengaluru,(3.1k),418,22.3k,645,130
+Hindalco Industries,Metals & Mining, Sambalpur,(3.3k),51,10.5k,362,231
+Kogta Financial India Limited,NBFC, Jaipur,(3.1k),44,1.6k,46,87
+Johnson Controls,Industrial Automation, Pune,(3.1k),174,16.1k,310,269
+Jubilant Foods Works,Hospitality, New Delhi,(3.3k),41,8.1k,194,194
+Reliance Projects & Property Management Services,IT Services & Consulting, Kolkata,(3.1k),--,6.9k,37,181
+Aditya Birla Sun Life Insurance,Insurance, Mumbai,(3k),2,8.9k,225,142
+UBS,Financial Services, Pune,(3k),9,28.9k,166,345
+Indian Oil Corporation,Oil & Gas, New Delhi,(3.1k),--,7.3k,317,216
+24/7 Customer,Software Product, Bangalore / Bengaluru,(3k),39,13k,448,177
+Future Group,Retail, Mumbai,(3k),--,8k,430,80
+JK Cement,Building Material, New Delhi,(3k),--,8.9k,276,279
+Alkem Laboratories,Pharma, Mumbai,(3k),26,9.1k,352,162
+MRF Tyres,Auto Components, Chennai,(3k),1,11.3k,388,318
+Maersk,Logistics, Pune,(3.2k),128,17.4k,458,212
+Dabur,FMCG, New Delhi,(3.2k),28,8k,307,280
+Marpu Foundation,Non-Profit, Hyderabad / Secunderabad,(3k),--,51,159,88
+Vishal Mega Mart,Retail, New Delhi,(3k),2,6k,278,166
+KPIT Technologies,Software Product, Pune,(3k),33,20.7k,321,298
+Honda Motorcycle & Scooter,Automobile, Gurgaon / Gurugram,(3k),--,10.5k,376,163
+IGT Solutions,IT Services & Consulting, New Delhi,(3k),94,12.2k,261,226
+HARMAN,Consumer Electronics & Appliances, Bangalore / Bengaluru,(2.9k),370,23.2k,134,269
+Grasim Industries,Building Material, Bharuch,(2.9k),3,11k,290,223
+Ford Motor,Automobile, Chennai,(3.1k),--,14k,415,157
+State Street Corporation,Financial Services, Bangalore / Bengaluru,(3.2k),1,27.7k,291,235
+Tata Capital,NBFC, Mumbai,(2.9k),1.1k,9.5k,118,147
+Glenmark Pharmaceuticals,Pharma, Mumbai,(3.1k),28,11.4k,340,149
+Indian Air Force,Defence & Aerospace, New Delhi,(2.9k),--,5k,382,59
+Reliance Nippon Life Insurance,Insurance, Mumbai,(2.9k),3,8k,240,145
+PNB MetLife,Insurance, New Delhi,(3.1k),350,7.8k,231,162
+Aarti Industries,Agro Chemicals, Bharuch,(3.1k),34,13.3k,397,291
+Kotak Mahindara Life Insurance,Insurance, Mumbai,(3k),2.1k,11.3k,278,229
+Kyndryl,IT Services & Consulting, Bangalore / Bengaluru,(3.1k),91,21.9k,209,194
+Conduent,BPO, Bangalore / Bengaluru,(2.8k),38,16.8k,389,201
+InterGlobe Aviation,Aviation, New Delhi,(2.8k),31,12.5k,334,328
+GeBBS Healthcare Solutions,Healthcare, Mumbai,(2.8k),47,11.1k,307,151
+Hindustan Coca Cola Beverages,Beverage, Bangalore / Bengaluru,(2.9k),55,7.1k,397,141
+Motilal Oswal Financial Services,Financial Services, Mumbai,(3k),46,10.8k,200,302
+DTDC Express,Logistics, New Delhi,(2.9k),10,7.9k,276,162
+Tata AIG,Insurance, Mumbai,(2.8k),134,10.7k,256,162
+Alstom Transportation,Engineering & Construction, Bangalore / Bengaluru,(2.7k),380,12.7k,198,249
+ABB,Industrial Machinery, Bangalore / Bengaluru,(2.9k),20,15.6k,378,245
+CMS IT Services,IT Services & Consulting, Mumbai,(2.7k),32,9.6k,202,142
+Max Healthcare,Healthcare, New Delhi,(2.7k),96,9.5k,296,152
+Ceat Tyres,Auto Components, Nagpur,(2.9k),2,12k,370,176
+Tata Technologies,Engineering & Construction, Pune,(2.7k),123,20.3k,353,274
+NatWest Group,Banking, Gurgaon / Gurugram,(2.9k),--,19k,397,211
+Square Yards,Internet, Gurgaon / Gurugram,(2.8k),74,8.5k,306,205
+UPL,Agro Chemicals, Ankleshwar,(2.7k),39,10.5k,334,185
+UNO Minda,Auto Components, Pune,(2.7k),15,9.5k,290,190
+UnitedHealth,Healthcare, Hyderabad / Secunderabad,(2.7k),--,15.7k,448,84
+Barclays,Banking, Pune,(2.7k),--,25.6k,283,280
+PepsiCo,Food Processing, Hyderabad / Secunderabad,(2.7k),479,11.2k,265,205
+Whitehat jr,EdTech, Mumbai,(2.7k),--,9.3k,972,262
+Titan Company,Retail, Bangalore / Bengaluru,(2.7k),328,8.7k,360,161
+Walmart,Retail, Bangalore / Bengaluru,(2.7k),159,17.9k,391,400
+Varroc Group,Auto Components, Pune,(2.7k),7,8.8k,251,184
+ACC,Building Material, Mumbai,(2.6k),2,8.7k,290,202
+ArcelorMittal Nippon Steel,Iron & Steel, Surat,(2.8k),10,10k,141,238
+RSPL Group,FMCG, Kanpur,(2.8k),35,8.8k,313,198
+Zensar Technologies,IT Services & Consulting, Pune,(2.6k),324,24.8k,283,256
+Torrent Pharmaceuticals,Pharma, Ahmedabad,(2.6k),37,9.8k,342,133
+Dilip Buildcon,Engineering & Construction, Bhopal,(2.6k),8,7.8k,305,152
+Mankind Pharma,Pharma, New Delhi,(2.6k),12,8.5k,266,206
+S&P Global,Analytics & KPO, Hyderabad / Secunderabad,(2.7k),265,17.8k,254,289
+Afcons Infrastructure,Engineering & Construction, Mumbai,(2.6k),9,7.9k,331,220
+Shoppers Stop,Retail, Mumbai,(2.6k),11,6.8k,337,119
+Nokia,Telecom, Bangalore / Bengaluru,(2.6k),317,14.6k,566,279
+TVS Credit,NBFC, Chennai,(2.6k),38,6.6k,208,119
+Amazon Transportation Services,n/a,Hyderabad / Secunderabad,(2.7k),--,7.5k,267,232
+Fiserv,FinTech, Pune,(2.5k),72,17.6k,345,178
+HDFC Sales,Financial Services, Mumbai,(2.5k),26,7.7k,202,170
+Quest Global,IT Services & Consulting, Bangalore / Bengaluru,(2.5k),144,19.1k,222,317
+Croma,Retail, Mumbai,(2.6k),43,7.9k,199,142
+Capita,IT Services & Consulting, Pune,(2.5k),59,13.3k,350,150
+Apollo Tyres,Auto Components, Chennai,(2.5k),--,9.3k,353,137
+Bajaj Allianz General Insurance,Insurance, Pune,(2.6k),263,8.6k,250,101
+Societe Generale Global Solution Centre,IT Services & Consulting, Bangalore / Bengaluru,(2.6k),25,20.5k,321,263
+Fujitsu,IT Services & Consulting, Pune,(2.5k),31,16k,207,191
+Flex,Electronics Manufacturing, Chennai,(2.5k),73,15.9k,461,193
+I Process Services,n/a,Mumbai,(2.5k),--,5.2k,136,109
+Nestle,FMCG, Gurgaon / Gurugram,(2.4k),69,9k,340,245
+IKS Health,Analytics & KPO, Mumbai,(2.4k),34,10k,248,238
+Eternal Limited,Internet, Gurgaon / Gurugram,(2.4k),3,12.7k,238,320
+Sahrudaya Healthcare (Medicover Hospitals),Healthcare, Hyderabad / Secunderabad,(2.4k),38,3.1k,35,128
+Shree Cement,Building Material, Beawar,(2.4k),--,9.2k,237,166
+Landmark Group,Retail, Bangalore / Bengaluru,(2.4k),4,8.7k,277,152
+MSN Laboratories,Pharma, Hyderabad / Secunderabad,(2.5k),46,8.5k,210,139
+Yazaki,Auto Components, Pune,(2.4k),5,8k,286,143
+ElasticRun,Logistics, Pune,(2.4k),22,6k,243,257
+Statestreet HCL Services,BPO, Chennai,(2.4k),--,15.3k,221,212
+DS Group,FMCG, Noida,(2.4k),31,6.7k,221,158
+Jindal Stainless,Iron & Steel, Jajpur,(2.4k),7,9.9k,224,227
+PhonePe,FinTech, Bangalore / Bengaluru,(2.6k),178,10.4k,201,326
+AGS Health,Analytics & KPO, Chennai,(2.4k),36,10.5k,291,167
+Tata Elxsi,IT Services & Consulting, Bangalore / Bengaluru,(2.4k),44,19.7k,237,312
+VVDN Technologies,IT Services & Consulting, Gurgaon / Gurugram,(2.3k),6,11.7k,152,210
+Exide Industries,Auto Components, Kolkata,(2.3k),73,7.8k,255,182
+Blue Dart Express,Logistics, Mumbai,(2.3k),5,6.1k,241,104
+Micro Labs,Pharma, Bangalore / Bengaluru,(2.3k),16,9.2k,222,133
+Indus Towers,Hardware & Networking, Gurgaon / Gurugram,(2.3k),26,8k,216,188
+Sterlite Technologies,Hardware & Networking, Aurangabad,(2.3k),78,9.9k,226,168
+XpressBees,n/a,Pune,(2.3k),3,7.5k,187,173
+BlackBuck,Internet, Bangalore / Bengaluru,(2.3k),6,6k,251,188
+Shell,Oil & Gas, Bangalore / Bengaluru,(2.3k),8,12.6k,282,201
+GATI-KWE,Logistics, Hyderabad / Secunderabad,(2.4k),5,5.2k,298,90
+Blinkit,Internet, Gurgaon / Gurugram,(2.3k),1,9.4k,217,209
+Suzlon Group,Power, Pune,(2.5k),29,7.3k,337,133
+SRF,Chemicals, Bharuch,(2.3k),14,8k,290,186
+Sammaan Capital Limited,NBFC, New Delhi,(2.3k),24,6.7k,122,105
+Paras Hospital,Healthcare, Patna,(2.3k),29,2.9k,158,83
+IDFC FIRST Bharat,Financial Services, Chennai,(2.4k),--,4.4k,79,113
+G4S,Law Enforcement & Security, Gurgaon / Gurugram,(2.3k),35,4.8k,244,107
+Voltas,Consumer Electronics & Appliances, Mumbai,(2.2k),10,8.2k,272,139
+Domino's Pizza,n/a,New Delhi,(2.3k),--,3.9k,398,94
+Patanjali Ayurved,FMCG, Haridwar,(2.2k),--,6k,257,115
+Bajaj Electricals,Consumer Electronics & Appliances, Mumbai,(2.3k),61,7.5k,309,129
+Britannia,FMCG, Bangalore / Bengaluru,(2.3k),7,7.7k,269,179
+ACT Fibernet,Telecom, Hyderabad / Secunderabad,(2.2k),51,7.3k,260,141
+KPMG Global Services,Management Consulting, Bangalore / Bengaluru,(2.4k),--,20.6k,32,231
+McDonald's,n/a,New Delhi,(2.2k),4,4.7k,426,126
+Fortis Healthcare,Healthcare, New Delhi,(2.2k),99,7.1k,151,135
+KocharTech,IT Services & Consulting, Kolkata,(2.2k),42,3.7k,608,74
+Ajanta Pharma,Pharma, Mumbai,(2.2k),24,8.4k,233,127
+Blue Star,Consumer Electronics & Appliances, Mumbai,(2.2k),311,8.9k,258,172
+Axis Direct,Financial Services, Mumbai,(2.2k),26,4.8k,230,80
+NoBroker,Real Estate, Bangalore / Bengaluru,(2.2k),108,9.4k,374,247
+TVS Supply Chain Solutions,n/a,Chennai,(2.3k),5,8k,209,137
+Capgemini Engineering,IT Services & Consulting, Bangalore / Bengaluru,(2.2k),91,16.2k,166,373
+Himalaya Wellness,n/a,Bangalore / Bengaluru,(2.2k),10,5.8k,280,119
+KFintech,FinTech, Hyderabad / Secunderabad,(2.3k),11,10.1k,58,147
+Foundever,BPO, Hyderabad / Secunderabad,(2.2k),93,7.6k,236,156
+ZS,Management Consulting, Pune,(2.2k),168,16.8k,307,466
+Alldigi Tech,BPO, Chennai,(2.2k),21,6.9k,145,209
+Dalmia Bharat Cement,Building Material, New Delhi,(2.3k),1,8k,247,149
+Tractors and Farm Equipment,Industrial Machinery, Chennai,(2.2k),11,7.9k,298,114
+DBS Bank,Banking, Hyderabad / Secunderabad,(2.1k),82,11.9k,200,173
+Parle Agro,Beverage, Mumbai,(2.1k),3,6.3k,224,112
+JCB,n/a,Pune,(2.1k),--,8.8k,269,142
+Datamatics Global Services,IT Services & Consulting, Mumbai,(2.1k),71,11.3k,200,168
+Intellect Design Arena,Software Product, Chennai,(2.1k),23,11.9k,243,166
+Star Health & Allied Insurance,Insurance, Chennai,(2.1k),12,8.4k,176,122
+Huawei Technologies,Telecom, Bangalore / Bengaluru,(2.1k),3,8.8k,307,116
+Info Edge,Internet, Noida,(2.1k),471,10.8k,318,337
+Movate,IT Services & Consulting, Chennai,(2.2k),68,13.7k,25,265
+Gallagher,Insurance, Bangalore / Bengaluru,(2.1k),37,12.2k,137,231
+Taj Hotels Resorts and Palaces,n/a,Mumbai,(2.1k),1,4.5k,185,129
+Cybage,IT Services & Consulting, Pune,(2.1k),45,16.5k,299,198
+Sonalika Tractors,Automobile, Hoshiarpur,(2.2k),--,8.3k,201,135
+Aditya Birla Group,Building Material, Mumbai,(2.1k),1,9.5k,266,206
+Biocon Limited,Biotechnology, Bangalore / Bengaluru,(2.1k),18,11.3k,29,162
+Adani Power,Power, Mundra,(2.1k),--,8.1k,188,250
+ICICI Securities,Financial Services, Mumbai,(2.1k),3,8.9k,195,171
+Kansai Nerolac Paints,Chemicals, Mumbai,(2.2k),4,6.9k,204,158
+Lava International,Consumer Electronics & Appliances, Noida,(2.1k),6,4.2k,317,72
+IntouchCX,BPO, Hyderabad / Secunderabad,(2.1k),83,8.4k,166,203
+3i Infotech,IT Services & Consulting, Mumbai,(2.1k),35,10.6k,163,148
+V-Mart,Retail, Gurgaon / Gurugram,(2.1k),21,4k,221,156
+Emcure Pharmaceuticals,n/a,Pune,(2k),54,7.9k,253,107
+Delhi Public School,n/a,New Delhi,(2k),93,5.2k,274,121
+Xoriant,IT Services & Consulting, Pune,(2k),43,11k,461,195
+Mahindra Holidays & Resorts,Hospitality, Mumbai,(2k),57,5.9k,210,107
+Cloudnine Hospital,Healthcare, Bangalore / Bengaluru,(2k),--,2.5k,127,344
+Bharat Financial Inclusion,NBFC, Hyderabad / Secunderabad,(2k),18,4.1k,193,77
+Unacademy,EdTech, Bangalore / Bengaluru,(2k),39,9.9k,167,212
+Mahindra Rural Housing Finance,NBFC, Mumbai,(2.1k),28,4.7k,187,93
+Simplex Infrastructures,Engineering & Construction, Kolkata,(2k),1,5k,294,70
+Eureka Forbes,Consumer Electronics & Appliances, Mumbai,(2k),5,5.3k,237,73
+Syngene International,Clinical Research, Bangalore / Bengaluru,(2k),38,11.6k,240,165
+suzuki motor gujarat,Automobile, Ahmedabad,(2.1k),21,7.2k,208,184
+Akums Drugs & Pharmaceuticals Limited,Pharma, Haridwar,(2.1k),17,5.8k,238,300
+Lifestyle,Retail, Bangalore / Bengaluru,(2.1k),14,6.8k,296,68
+Ola Cabs,Internet, Bangalore / Bengaluru,(2k),14,10k,247,144
+Myntra,Internet, Bangalore / Bengaluru,(2k),6,9.5k,325,224
+Cadila Pharmaceuticals,Pharma, Ahmedabad,(2k),16,7.1k,192,126
+Cholamandalam MS General Insurance,Insurance, Chennai,(2.1k),1,5.5k,168,98
+ESAF Small Finance Bank,Banking, Thrissur,(2.2k),33,6.8k,111,122
+BT Group,Telecom, Gurgaon / Gurugram,(2.1k),2,10.2k,293,193
+Sobha,Real Estate, Bangalore / Bengaluru,(2k),61,7.8k,223,144
+Hero FinCorp,NBFC, New Delhi,(2k),16,5k,138,94
+State Street Syntel,Financial Services, Pune,(2k),--,8.2k,290,77
+Photon Interactive,IT Services & Consulting, Chennai,(2k),401,6.7k,187,114
+Niva Bupa Health Insurance Company,Insurance, New Delhi,(2k),32,7.4k,129,132
+Bureau Veritas,Other, Mumbai,(2k),25,7.5k,189,121
+Care Health Insurance,Internet, New Delhi,(2.1k),52,7.7k,181,129
+Extramarks Education,EdTech, Noida,(1.9k),17,7.6k,158,167
+GlaxoSmithKline Pharmaceuticals,Pharma, Bangalore / Bengaluru,(1.9k),28,5.1k,127,106
+Whirlpool,Consumer Electronics & Appliances, Pune,(1.9k),3,7.6k,220,99
+Tata Advanced Systems,Defence & Aerospace, Bangalore / Bengaluru,(1.9k),14,10.8k,163,145
+Indian Railways,Railways, New Delhi,(1.9k),--,3.2k,173,91
+Laurus Labs,Pharma, Visakhapatnam,(1.9k),5,6.8k,241,119
+Cisco,Hardware & Networking, Bangalore / Bengaluru,(1.9k),119,17.2k,249,380
+Radisson Hotels,n/a,New Delhi,(2k),134,5.2k,323,82
+Nokia Networks,Hardware & Networking, Chennai,(2k),--,10.9k,28,117
+Canara HSBC Life Insurance,Insurance, Gurgaon / Gurugram,(2k),32,6.2k,177,106
+RMSI,IT Services & Consulting, Hyderabad / Secunderabad,(1.9k),14,8k,192,159
+Planet Spark,EdTech, Gurgaon / Gurugram,(2k),80,2.8k,229,455
+Ninjacart,Internet, Bangalore / Bengaluru,(1.9k),9,5.4k,148,97
+BHEL,Electrical Equipment, Bangalore / Bengaluru,(1.9k),--,5k,249,118
+Sopra Steria,IT Services & Consulting, Noida,(1.9k),270,13.1k,271,133
+Ambuja Cements,Building Material, Mumbai,(1.9k),--,5.7k,220,118
+Shahi Exports,Fashion & Textile, Bangalore / Bengaluru,(1.9k),41,6.5k,245,105
+Life Insurance Corporation of India,Insurance, New Delhi,(1.9k),1,4.1k,251,77
+Pfizer,Pharma, Visakhapatnam,(1.9k),47,5.5k,288,75
+Bharti AXA Life Insurance,Insurance, Mumbai,(1.9k),22,5.1k,177,127
+upGrad,EdTech, Bangalore / Bengaluru,(1.9k),63,8.2k,149,202
+Force Motors,Automobile, Pune,(1.9k),3,7.7k,180,125
+Endurance Technologies,Auto Components, Aurangabad,(1.9k),9,7.2k,251,112
+Renault-Nissan,n/a,Chennai,(1.9k),--,7.3k,281,111
+ValueLabs,IT Services & Consulting, Hyderabad / Secunderabad,(1.9k),104,14.7k,299,195
+Apollo Pharmacy,n/a,Hyderabad / Secunderabad,(1.9k),31,5.9k,132,136
+Adani Wilmar,FMCG, Ahmedabad,(1.8k),10,6.1k,180,113
+Coromandel International,Agro Chemicals, Visakhapatnam,(1.8k),15,6.8k,237,103
+Ola Electric Mobility,Automobile, Bangalore / Bengaluru,(2.1k),--,7.9k,86,242
+TCE,Engineering & Construction, Mumbai,(1.8k),324,8k,178,258
+Raymond Lifestyle Limited,Fashion & Textile, Mumbai,(1.8k),2,6.5k,241,93
+Bank of Baroda,Banking, Mumbai,(1.8k),--,6.3k,157,97
+Reliance Trends,Retail, Bangalore / Bengaluru,(1.8k),--,4.2k,230,107
+SBI Securities,Financial Services, Mumbai,(1.8k),81,6k,110,157
+Sagility,BPO, Bangalore / Bengaluru,(2k),48,8.4k,65,190
+Straive,Analytics & KPO, Chennai,(1.9k),51,9k,136,190
+Aavas Financiers,NBFC, Jaipur,(1.9k),47,5.6k,139,98
+Cargill,Food Processing, Bangalore / Bengaluru,(1.8k),184,7.5k,167,98
+Meesho,Internet, Bangalore / Bengaluru,(1.8k),150,7.5k,312,351
+Renault Nissan Technology & Business Centre India,Automobile, Chennai,(1.9k),70,13.5k,245,136
+GVK Emergency Management and Research Institute,n/a,Lucknow,(1.9k),20,4.3k,192,96
+Delphi TVS,Auto Components, Chennai,(1.8k),1,5.3k,214,89
+Henry Harvin Education,n/a,Noida,(1.8k),27,773,134,14
+Lodha Group,Real Estate, Mumbai,(1.8k),79,7.7k,205,136
+SAP,Software Product, Bangalore / Bengaluru,(1.8k),227,15k,329,289
+Bharat Petroleum,Oil & Gas, Mumbai,(1.8k),--,6.3k,199,153
+Kia Motors,Automobile, Anantapur,(1.9k),20,7.3k,190,141
+Brakes India,Auto Components, Chennai,(1.8k),2,6.6k,210,76
+HSBC Electronic Data Processing,Banking, Bangalore / Bengaluru,(1.8k),--,8.8k,19,68
+Exl India,Logistics, New Delhi,(1.9k),--,11.9k,180,109
+Team Computers,IT Services & Consulting, New Delhi,(1.8k),174,7.9k,126,139
+Tata Motors Finance,NBFC, Mumbai,(1.8k),2,4.3k,157,67
+Power Mech Projects,Engineering & Construction, Hyderabad / Secunderabad,(1.8k),13,6.2k,167,101
+Panasonic Life Solutions India,Consumer Electronics & Appliances, Haridwar,(1.8k),15,5.9k,122,77
+ITC Hotels,n/a,Bangalore / Bengaluru,(1.7k),--,5.1k,212,88
+BNP Paribas,Financial Services, Mumbai,(1.7k),40,15.1k,194,187
+CitiusTech,IT Services & Consulting, Mumbai,(1.7k),14,12.9k,181,280
+CAMS,Financial Services, Chennai,(1.8k),14,7.7k,61,121
+YASH Technologies,IT Services & Consulting, Hyderabad / Secunderabad,(1.7k),442,15.3k,188,152
+Senco Gold,Jewellery, Kolkata,(1.7k),7,1.3k,57,567
+Novartis,Pharma, Hyderabad / Secunderabad,(1.7k),273,8.7k,258,148
+Kotak Securities,Financial Services, Mumbai,(1.7k),12,8.8k,161,119
+Aditya Birla Capital,Financial Services, Mumbai,(1.9k),1,8.1k,167,162
+Allstate,Insurance, Pune,(1.8k),50,11.1k,219,139
+Google,Software Product, Bangalore / Bengaluru,(1.7k),283,20.1k,159,873
+Poonawalla Fincorp,NBFC, Pune,(1.8k),11,4.8k,137,65
+Saint-Gobain,Engineering & Construction, Mumbai,(1.7k),37,9.9k,261,176
+Microsoft Corporation,Software Product, Bangalore / Bengaluru,(1.8k),--,22.3k,236,567
+Sify Technologies,IT Services & Consulting, Chennai,(1.8k),28,9.2k,163,126
+Daikin,Consumer Electronics & Appliances, Neemrana,(1.7k),6,6.6k,152,160
+Future Retail,Retail, Mumbai,(1.7k),--,4.5k,259,55
+Foxconn,Electronics Manufacturing, Chennai,(1.7k),60,8.1k,226,170
+FirstCry,Internet, Pune,(1.7k),26,8k,90,182
+Reliance General Insurance,Insurance, Mumbai,(1.7k),4,6.6k,143,84
+L&T Energy Hydrocarbon,Engineering & Construction, Vadodara,(1.7k),--,7.9k,211,98
+Future Generali India Life Insurance,Insurance, Mumbai,(1.8k),150,6.5k,167,102
+Morgan Stanley,Financial Services, Mumbai,(1.7k),4,21.5k,180,299
+AECOM,Engineering & Construction, Gurgaon / Gurugram,(1.7k),136,6.1k,256,124
+Crisil,Analytics & KPO, Mumbai,(1.7k),505,11.4k,251,194
+Parle Products,FMCG, Mumbai,(1.7k),13,3.4k,215,97
+IDBI Bank,Banking, Mumbai,(1.7k),--,5.6k,142,71
+Physicswallah,EdTech, Noida,(1.8k),33,5.8k,34,220
+Star Union Dai-ichi Life Insurance,Insurance, Mumbai,(1.8k),44,4.7k,113,95
+SBI General Insurance,Insurance, Mumbai,(1.8k),10,6k,140,108
+Mercedes-Benz Research and Development India,IT Services & Consulting, Bangalore / Bengaluru,(1.7k),2,15.5k,240,188
+Spark Minda,Auto Components, Pune,(1.8k),13,6.2k,50,130
+Gabriel India,Auto Components, Pune,(1.7k),1,5.3k,265,105
+NCR Corporation,IT Services & Consulting, Hyderabad / Secunderabad,(1.7k),252,8.5k,191,133
+SGS,Clinical Research, Mumbai,(1.7k),78,5.8k,193,99
+Adani Group,Power, Ahmedabad,(1.8k),129,8.9k,115,213
+Lucas-TVS,Auto Components, Chennai,(1.7k),3,5.6k,233,77
+Microland,IT Services & Consulting, Bangalore / Bengaluru,(1.7k),414,10.4k,170,136
+Philips,Consumer Electronics & Appliances, Bangalore / Bengaluru,(1.7k),77,9.9k,200,161
+Infinite Computer Solutions,IT Services & Consulting, Bangalore / Bengaluru,(1.7k),195,12.7k,114,152
+R.R. Donnelley,Marketing & Advertising, Chennai,(1.6k),12,9.2k,301,110
+Uflex,Packaging, Noida,(1.6k),65,6.3k,127,113
+Paisabazaar.com,Internet, Gurgaon / Gurugram,(1.6k),46,6.6k,109,146
+American Broadcasting Company,n/a,Mumbai,(1.6k),18,24.1k,9,554
+Dhani Loans and Services,NBFC, Gurgaon / Gurugram,(1.7k),15,4.8k,53,70
+KENT RO Systems,Consumer Electronics & Appliances, Noida,(1.7k),15,4.4k,117,86
+Dr Lal PathLabs,Healthcare, New Delhi,(1.6k),51,4.2k,204,136
+Sterling & Wilson,Engineering & Construction, Mumbai,(1.6k),14,7.2k,209,67
+Thomson Reuters,Software Product, Bangalore / Bengaluru,(1.6k),218,9.8k,246,121
+Safexpress,Logistics, New Delhi,(1.6k),--,5.4k,151,110
+Iris Software,IT Services & Consulting, Noida,(1.6k),49,6.9k,312,169
+JK Tyres,Auto Components, Chennai,(1.7k),3,6.4k,200,98
+AXA Business Services,Insurance, Pune,(1.6k),9,7.1k,179,86
+TaskUs,BPO, Indore,(1.8k),104,7.3k,134,181
+Kalyan Jewellers,Jewellery, Thrissur,(1.6k),17,1.4k,71,61
+GAO Tek,Electrical Equipment, New York,(1.6k),--,218,93,228
+NTPC,Power, New Delhi,(1.6k),--,3.8k,191,161
+Medi Assist India,Insurance, Bangalore / Bengaluru,(1.6k),45,6.7k,148,124
+Aragen Life Sciences,Clinical Research, Hyderabad / Secunderabad,(1.6k),55,6k,331,109
+CMS Infosystems,Other, Mumbai,(1.6k),4,4.3k,109,61
+HTC Global Services,IT Services & Consulting, Chennai,(1.6k),85,11.8k,118,142
+PI Industries,Agro Chemicals, Bharuch,(1.6k),12,6.3k,181,116
+Hindustan Aeronautics,Defence & Aerospace, Bangalore / Bengaluru,(1.6k),--,4.1k,181,75
+MetLife,Insurance, Noida,(1.6k),112,7.8k,252,92
+Altruist Technologies,BPO, Bangalore / Bengaluru,(1.6k),6,7.4k,87,134
+Honeywell Automation,Industrial Automation, Pune,(1.7k),1,11k,182,111
+Trident Group,Fashion & Textile, Barnala,(1.6k),10,5k,144,121
+Nuvoco Vistas,Building Material, Kolkata,(1.7k),19,6.1k,144,100
+Haier Appliances India,Consumer Electronics & Appliances, Pune,(1.6k),17,6.3k,186,132
+Angel One,FinTech, Mumbai,(1.6k),25,6.8k,169,143
+TVS Sundram Fasteners,Auto Components, Chennai,(1.6k),1,6.4k,217,74
+Vedantu,EdTech, Bangalore / Bengaluru,(1.6k),3,9.1k,163,187
+Torrent Power,Power, Ahmedabad,(1.6k),45,6.9k,170,132
+Indian Navy,Defence & Aerospace, Mumbai,(1.5k),--,3.4k,256,24
